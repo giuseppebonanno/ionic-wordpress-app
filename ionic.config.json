@@ -1,7 +1,7 @@
 {
-  "name": "unegatuaj",
+  "name": "ionic6-wordpress-app",
   "integrations": {
-    "cordova": {}
+    "capacitor": {}
   },
   "type": "angular"
 }
